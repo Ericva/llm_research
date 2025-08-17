@@ -1,6 +1,6 @@
 [submodule "external/nano-vllm"]
 	path = external/nano-vllm
 	url = git@github.com:GeeeekExplorer/nano-vllm.git
-[submodule "projects/projects/vllm_learning"]
-	path = projects/projects/vllm_learning
+[submodule "projects/vllm_learning"]
+	path = projects/vllm_learning
 	url = git@github.com:Ericva/vllm_learning.git
