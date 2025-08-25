@@ -6,4 +6,4 @@ torchrun --nproc_per_node=2 accelerate.1.py
 # accelerate launch accelerate.1.py
 
 # or
-# python -m accelerate.commands.launch accelerate.test.py
+# python -m accelerate.commands.launch accelerate.1.py

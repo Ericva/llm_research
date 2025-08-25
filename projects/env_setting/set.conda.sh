@@ -30,6 +30,4 @@ fi
 unset __conda_setup
 # <<< conda initialize <<<
 EOF
-
-
 fi

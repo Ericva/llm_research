@@ -1,9 +1,6 @@
 #!/bin/bash
 set -x
 
-#apt-get update
-#apt-get install -y openssh-server
-#
 apt-get update && \
 apt-get install -y openssh-server && \
 echo "PermitRootLogin yes" >> /etc/ssh/sshd_config && \
