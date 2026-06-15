@@ -4,3 +4,6 @@
 [submodule "projects/vllm_learning"]
 	path = projects/vllm_learning
 	url = git@github.com:Ericva/vllm_learning.git
+[submodule "external/learn-harness-engineering"]
+	path = external/learn-harness-engineering
+	url = https://github.com/walkinglabs/learn-harness-engineering/
